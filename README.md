@@ -1,2 +1,2 @@
 # Purge-All
-Purges All DM's
+Purgers groupchats and DMs with everyone
